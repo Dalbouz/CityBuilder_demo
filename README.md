@@ -26,4 +26,4 @@ The project was launched in cooperation with another programmer, artist and writ
   <br></br>
 </div>
 
-Full gameplay can be viewed here:
+Full gameplay can be viewed here:https://drive.google.com/file/d/1eOqkXT6xw9sgVw8bjE0Qm5WIP6u0oLOq/view?usp=drive_link
