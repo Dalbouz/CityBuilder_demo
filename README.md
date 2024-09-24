@@ -4,7 +4,9 @@ Demo game of a city building game, with features such as: sickness, hunger, day 
 Desktop Application, build and survive. There are several activities such as medic, woodcutter, cook and similar. Every person needs not only to survive, but also to stay healthy in order to fulfill his duties towards society. There is a random generation of time that will affect the productivity of your company in the future.
 
 The project was launched in cooperation with another programmer, artist and writer in the hope of creating an MVP and the demand of investors to launch a StartUp game company.
-
+  <br></br>
+Full gameplay can be viewed here:https://drive.google.com/file/d/1eOqkXT6xw9sgVw8bjE0Qm5WIP6u0oLOq/view?usp=drive_link
+  <br></br>
 <div align="center">
 <img src = "https://github.com/user-attachments/assets/4bebe9bf-ca68-4cf2-a2b6-7043d64c7b9e" width = "700px">
   <br></br>
@@ -26,4 +28,4 @@ The project was launched in cooperation with another programmer, artist and writ
   <br></br>
 </div>
 
-Full gameplay can be viewed here:https://drive.google.com/file/d/1eOqkXT6xw9sgVw8bjE0Qm5WIP6u0oLOq/view?usp=drive_link
+
